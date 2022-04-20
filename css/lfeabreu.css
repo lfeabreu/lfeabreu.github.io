@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: helvetica, arial;
+    font-size: 16px;
+    color: #343434;
+}
+
+header {
+    height: 50px;
+    background-color: #343434;
+}
+
+footer {
+    height: 50px;
+    background-color: #000000;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+}
